@@ -518,7 +518,7 @@ function tokenHandler (result) {
 ```
 
 #### setApplicationIconBadgeNumber (iOS only)
-Set the badge count visible when the app is not running
+Set the badge count visible when the app is running
 
 ```js
 pushNotification.setApplicationIconBadgeNumber(successCallback, errorCallback, badgeCount);
